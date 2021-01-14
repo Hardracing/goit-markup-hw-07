@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&family=Raleway:wght@400;700&family=Roboto:wght@400;500;700;900&display=swap');
 @import './utils/variables';
 @import './base/base';
+@import './base/visually-hidden';
 @import './components/page-header';
 @import './components/portfolio-header';
 @import './components/hero';
@@ -11,4 +13,3 @@
 @import './components/portfolio-projects';
 @import './components/modal-window';
 @import './components/page-footer';
-@import './utils/visually-hidden';
